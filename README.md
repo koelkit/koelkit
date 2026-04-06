@@ -11,8 +11,8 @@ Languages i mostly use:
 
 Operating systems i use:
 - Windows 
-- Kali (linux)
-- Ubuntu (linux)
+- Kali (linux)🐧
+- Ubuntu (linux)🐧
 
 ##
 ### Tools & Tech
