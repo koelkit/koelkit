@@ -6,9 +6,11 @@ i mostly work on automation and blue/red teaming stuff.
 
 
 ## 
+
 # Tools & Tech
 
-## 
+##
+
 # My hobbies
 
 
