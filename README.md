@@ -8,6 +8,7 @@ Languages i mostly use:
 - Python 🐍
 - YAML 📄
 - Powershell 🗔
+- Bash 🗔
 
 Operating systems i use:
 - Windows 
